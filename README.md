@@ -8,7 +8,13 @@ Utilizando a biblioteca `venv` , para criar o ambiente utilize o comando abaixo:
 `python -m venv myvenv`
 
 ### Ativar o ambiente virtual
-Comando para ativar o ambiente virtual
 
 `source ./myvenv/Source/activate`
 
+### Instalar o Flask
+
+`pip install Flask`
+
+### Rodar o projeto
+
+`py app.py`
