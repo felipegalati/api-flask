@@ -296,5 +296,6 @@ pip-selfcheck.json
 appteste.http
 usertest.http
 
-/database.py
-/scriptbd.sql
+database.py
+scriptbd.sql
+agendatest.http
